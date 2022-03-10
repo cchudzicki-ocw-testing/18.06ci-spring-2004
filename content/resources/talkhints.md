@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: talkhints.pdf
 uid: 12880584-9a67-16d1-2a9e-6231f014d3e3
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: jsv_final_project_3.pdf
 uid: 41fe279d-b3bb-d487-a368-3633a11397b5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

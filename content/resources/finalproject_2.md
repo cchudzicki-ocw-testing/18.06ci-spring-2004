@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: finalproject_2.pdf
 uid: 7fca9799-8d85-2674-da8e-fd8667900088
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

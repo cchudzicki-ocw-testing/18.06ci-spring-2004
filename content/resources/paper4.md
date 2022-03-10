@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: paper4.pdf
 uid: f40c5587-2f06-9ab7-b60d-e17b84a36016
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 1806ciphil.pdf
 uid: 8e6e793d-6905-9ef1-bf62-d7d91eb7de08
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

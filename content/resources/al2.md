@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: al2.pdf
 uid: c62d9ab5-a3ba-f1ba-c8e3-e5b99ab9d111
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

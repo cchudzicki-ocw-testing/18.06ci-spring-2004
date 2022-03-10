@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: al1.pdf
 uid: 7ad9566d-c40f-172c-811f-9564adb499c0
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

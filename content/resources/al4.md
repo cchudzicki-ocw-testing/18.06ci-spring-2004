@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: al4.ps
 uid: 01a881d4-3532-e98b-8076-1cae7813e8e7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: rs3.pdf
 uid: 7a4e4941-713c-2723-bf48-8aafa5998d9b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

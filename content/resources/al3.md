@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: al3.pdf
 uid: f8f2d8de-d452-1aa1-e66a-de73ddb013de
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

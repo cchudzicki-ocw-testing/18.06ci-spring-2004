@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: rs5.pdf
 uid: 695e4d4e-cc10-7951-047e-11dd860d0a03
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
