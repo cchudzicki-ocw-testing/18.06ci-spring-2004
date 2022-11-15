@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -10,7 +11,7 @@ video_metadata:
   youtube_id: null
 ---
 
-The Not so Short Introduction to LaTeX2e ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[(PDF - 1.7MB)](https://tobi.oetiker.ch/lshort/lshort.pdf)
+The Not so Short Introduction to LaTeX2e [(PDF - 1.7MB)](https://tobi.oetiker.ch/lshort/lshort.pdf)
 
 Essential LaTex++ ( [PDF](http://noodle.med.yale.edu/latex/essential.pdf))
 
